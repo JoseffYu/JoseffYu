@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseffYu YanlinYu
 - 🌱 I’m currently learning Java & python 
-- 📫 How to reach me wechat:yu1016184241 
+- 📫 How to reach me, wechat:yu1016184241, ins:josefffyu
 
 <!---
 JoseffYu/JoseffYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
