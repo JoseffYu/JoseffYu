@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @JoseffYu
-- 👀 I’m interested in learning Java basics and deep learning 
+- 👋 Hi, I’m @JoseffYu YanlinYu
 - 🌱 I’m currently learning Java & python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wechat:yu1016184241 
 
 <!---
