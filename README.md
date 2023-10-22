@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseffYu YanlinYu
+- 👋 Hi, I’m @Yanlin YanlinYu
 - 🌱 I’m currently learning Java & python 
 - 📫 How to reach me, wechat:yu1016184241, ins:josefffyu
 
