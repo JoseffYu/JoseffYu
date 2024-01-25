@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yanlin YanlinYu
-- 🌱 I’m currently learning Java & python 
+- 🌱 I’m currently learning Java & python & Reinforcement learning
 - 📫 How to reach me, wechat:yu1016184241, ins:josefffyu
 
 <!---
