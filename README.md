@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yanlin YanlinYu
-- 🌱 I’m currently learning Java & python & Reinforcement learning
-- 📫 How to reach me, wechat:yu1016184241, ins:josefffyu
+- 🌱 I’m currently reseaching on Application of Reinforcement learning
+- 📫 How to reach me, yanlin_yu@outlook.com
 
 <!---
 JoseffYu/JoseffYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
